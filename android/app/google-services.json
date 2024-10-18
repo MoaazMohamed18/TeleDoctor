@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1021120801088",
+    "firebase_url": "https://teledoctor-d57e8-default-rtdb.firebaseio.com",
+    "project_id": "teledoctor-d57e8",
+    "storage_bucket": "teledoctor-d57e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021120801088:android:df6dafffea655c87f2b2a5",
+        "android_client_info": {
+          "package_name": "com.example.teledoctor_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcK-bfKFFnuoJRUW8eJkX7ib1bOpIZ3Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
